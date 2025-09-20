@@ -3,8 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ![JDBC](https://img.shields.io/badge/JDBC-4DB33D?style=for-the-badge&logo=java&logoColor=white)  
-![Swing](https://img.shields.io/badge/Swing-FF6F00?style=for-the-badge&logo=java&logoColor=white)  
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)  
+![Swing](https://img.shields.io/badge/Swing-FF6F00?style=for-the-badge&logo=java&logoColor=white)   
 
 A **Java + MySQL** based Student Management System designed to manage student records efficiently.  
 The project demonstrates **CRUD operations (Create, Read, Update, Delete)** with both **Console** and **Swing GUI** interfaces using **JDBC integration**.  
